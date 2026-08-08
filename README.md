@@ -673,11 +673,21 @@ Testing modules individually simplified debugging before complete system integra
 
 # Project Demonstration
 
-A video demonstration of the SAP-1 computer is available on YouTube:
+A video demonstration of the complete SAP-1 computer is available on YouTube.
 
-**[Watch the SAP-1 Project Demonstration](https://youtu.be/2lBFWoUOhlg)**
+<p align="center">
+  <a href="https://youtu.be/2lBFWoUOhlg">
+    <img src="https://img.youtube.com/vi/2lBFWoUOhlg/hqdefault.jpg"
+         alt="SAP-1 Computer Project Demonstration"
+         width="700">
+  </a>
+</p>
 
-The demonstration shows the operation of the project and the integrated SAP-1 design.
+<p align="center">
+  <b>Click the image to watch the SAP-1 Project Demonstration</b>
+</p>
+
+The demonstration shows the operation of the integrated 6-bit SAP-1 computer in Proteus.
 
 ---
 
